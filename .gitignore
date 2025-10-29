@@ -7,3 +7,17 @@ public/uploads/
 data/uploads/
 *.log
 .DS_Store
+
+# Strapi Cloud
+.strapi-cloud.json
+.strapi-updater.json
+.strapi/
+
+# Build
+dist/
+
+# IDE
+.idea/
+
+# Local files
+license.txt

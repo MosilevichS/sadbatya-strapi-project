@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "boughtbeforedatas",
+  "info": {
+    "singularName": "boughtbeforedata",
+    "pluralName": "boughtbeforedatas",
+    "displayName": "BoughtBeforeData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "cardName": {
+      "type": "string"
+    },
+    "cardPicture": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "cardPriceRegular": {
+      "type": "decimal"
+    },
+    "cardStars": {
+      "type": "integer"
+    }
+  }
+}

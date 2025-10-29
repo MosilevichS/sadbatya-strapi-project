@@ -1,0 +1,9 @@
+node_modules/
+.env
+.tmp/
+cache/
+build/
+public/uploads/
+data/uploads/
+*.log
+.DS_Store

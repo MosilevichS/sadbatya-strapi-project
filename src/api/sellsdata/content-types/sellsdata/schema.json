@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sellsdatas",
+  "info": {
+    "singularName": "sellsdata",
+    "pluralName": "sellsdatas",
+    "displayName": "SellsData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
